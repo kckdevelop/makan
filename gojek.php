@@ -1,18 +1,4 @@
-[22:51, 7/2/2020] .: <?php
-date_default_timezone_set('Asia/Bandung');
-include "function.php";
-echo "\e[95m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n";
-echo "\e[96m_ASALAMUALLAIKUM:) \n";
-echo "\e[96m          INI SCRIF GOJEK INI GRATIS BRO                \n";
-echo "\e[96m                   HILMAWAN TUBE                     \n";
-echo "\e[96m       BIAR BISA MAKIN SEMANGAT BIKIN KONTENNYA         \n";
-echo "\e[96m            * INGET BRO SUBSCRIBE ITU GRATIS!!              \n";
-echo "\e[96m *\e[95m".date('[d-m-Y] [H:i:s]')."\e[96m***\n";
-echo "\e[95m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n";
-echo "\e[96m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n";
-echo "\e[93m            \e[96m  BRAZIL REDY TO LOSE? \e[93m \n";
-echo "\e[96m  ============================…
-[23:03, 7/2/2020] .: <?php
+<?php
 date_default_timezone_set('Asia/Bandung');
 include "function.php";
 echo "\e[95m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n";
